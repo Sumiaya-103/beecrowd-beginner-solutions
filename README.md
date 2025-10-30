@@ -12,5 +12,3 @@ I’m solving **4–5 problems each day** to improve my logic, problem-solving, 
 
 ---
 
-## Languages Used
-- Python  
